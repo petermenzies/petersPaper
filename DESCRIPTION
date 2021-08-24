@@ -17,3 +17,5 @@ Imports: bookdown,
     here
 Suggests: devtools,
     git2r
+URL: https://github.com/petermenzies/petersPaper
+BugReports: https://github.com/petermenzies/petersPaper/issues
